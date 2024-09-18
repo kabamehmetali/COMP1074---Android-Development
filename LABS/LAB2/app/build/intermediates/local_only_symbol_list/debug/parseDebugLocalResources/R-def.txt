@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_activity
+id btn_alarm
+id btn_browser
+id btn_camera
+id btn_exit
+id btn_map
+id imageView
+id main
+id textView
+layout activity_main
+layout activity_my2
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string btn_activity
+string btn_alarm
+string btn_browser
+string btn_camera
+string btn_exit
+string btn_map
+style Base.Theme.Lecture03
+style Theme.Lecture03
+xml backup_rules
+xml data_extraction_rules
